@@ -1,1 +1,1 @@
-# Repository for git setup, Naysa Arora
+# Repository for git setup for XXX
